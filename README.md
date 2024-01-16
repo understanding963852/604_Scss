@@ -11,3 +11,14 @@
 # nesting(네스팅)--품다
 ![image](https://github.com/understanding963852/604_Scss/assets/60366769/35e22fb0-f050-4156-9dec-f6fd8607a2d4)
 
+
+# 저장경로
+![image](https://github.com/understanding963852/604_Scss/assets/60366769/8316485d-9969-48b1-a9aa-b0be403d7d0d)
+
+# 🍩  "savePath": null, --> null이면 scss파일과 같은 위치에 style.css가 생긴다
+ 
+# 🍩  "savePath": "~/css", --> ~ 은  style.scss를 의미 , /는 style.scss 있는 폴더를 의미, scss파일과 같은 위치에 css 폴더가 생성되고 그 css 폴더안에 컴파일된 style.css가 생긴다
+
+
+
+
