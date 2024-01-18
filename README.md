@@ -21,4 +21,6 @@
 
 # 🍩  "savePath": "~/../css", -->  style.scss있는 폴더(부모)와 같은 위치에 css폴더를 생성되고 그 css 폴더안에 컴파일된 style.css가 생긴다
 
+# 🍩 압축버전 만들기
+![image](https://github.com/understanding963852/604_Scss/assets/60366769/8a88224d-8f43-415d-acfd-fe9cfe388866)
 
