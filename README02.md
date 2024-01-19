@@ -7,7 +7,22 @@
 
 # 변수에 중복을 막을수 있는 방법  -- @use, @forward
 # @use --> 많이 사용
+# 구분하는 방법은 파일명을 이용한다. 
+```
+@use './partials/var';
+@use './partials/var2';
 
+h1{color:var2.$color-primary}
+```
+
+# as 를 이용하여 별명을 붙일수 있다.
+
+```
+@use './partials/var';
+@use './partials/var2' as v2;
+
+h1{color:v2.$color-primary}
+```
 
 
 
